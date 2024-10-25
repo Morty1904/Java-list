@@ -1,11 +1,13 @@
+package ejemplo.org;
+
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
 
-public class GestionDiasSemanaTest {
-    private GestionDiasSemana gestionDias;
+public class GestionDiaSemanaTest {
+    private GestionDiaSemana gestionDia;
 
     @BeforeEach
     public void setUp() {
